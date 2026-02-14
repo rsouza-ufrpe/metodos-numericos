@@ -1,0 +1,17 @@
+# .gitignore
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Compilados Python
+__pycache__/
+*.pyc
+
+# Ambiente Virtual (se estiver na mesma pasta)
+.venv/
+.env
+
+# Dados grandes (se houver)
+*.csv
+*.dat
