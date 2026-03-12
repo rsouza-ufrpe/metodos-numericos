@@ -15,3 +15,5 @@ __pycache__/
 # Dados grandes (se houver)
 *.csv
 *.dat
+
+rascunhos.py
