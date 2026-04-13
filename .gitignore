@@ -17,3 +17,4 @@ __pycache__/
 *.dat
 
 rascunhos.py
+tmp.py
